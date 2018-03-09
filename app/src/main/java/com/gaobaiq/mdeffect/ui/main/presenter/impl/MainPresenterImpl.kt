@@ -1,8 +1,8 @@
-package com.gaobaiq.mdeffect.ui.presenter.impl
+package com.gaobaiq.mdeffect.ui.main.presenter.impl
 
 import com.gaobaiq.mdeffect.base.BasePresenter
-import com.gaobaiq.mdeffect.ui.presenter.IMainPresenter
-import com.gaobaiq.mdeffect.ui.view.IMainView
+import com.gaobaiq.mdeffect.ui.main.presenter.IMainPresenter
+import com.gaobaiq.mdeffect.ui.main.view.IMainView
 
 /**
  * Description:

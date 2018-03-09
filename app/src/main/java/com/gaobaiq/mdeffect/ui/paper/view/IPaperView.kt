@@ -1,4 +1,4 @@
-package com.gaobaiq.mdeffect.ui.view
+package com.gaobaiq.mdeffect.ui.paper.view
 
 /**
  * Description:

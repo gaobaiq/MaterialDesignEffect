@@ -1,4 +1,4 @@
-package com.qcloud.qclib.utils
+package com.gaobaiq.mdeffect.utils
 
 import java.util.*
 import java.util.regex.Matcher
@@ -6,9 +6,9 @@ import java.util.regex.Pattern
 import kotlin.collections.ArrayList
 
 /**
- * 类说明：字符串工具类
- * Author: Kuzan
- * Date: 2017/11/22 16:01.
+ * Description:
+ * Author: gaobaiqiang
+ * 2018/3/8 下午4:50.
  */
 object StringUtil {
     /**

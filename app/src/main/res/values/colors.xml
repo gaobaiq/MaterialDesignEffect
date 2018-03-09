@@ -1,6 +1,17 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <color name="colorPrimary">#3F51B5</color>
-    <color name="colorPrimaryDark">#303F9F</color>
-    <color name="colorAccent">#FF4081</color>
+    <color name="colorPrimary">#FFC107</color>
+    <color name="colorPrimaryDark">#FF6F00</color>
+    <color name="colorAccent">#FFCA28</color>
+
+    <color name="colorWhite">#FFFFFF</color>
+    <color name="colorBlack">#000000</color>
+    <color name="Transparent">#00000000</color>
+
+    <color name="colorTitle">#282828</color><!--标题-->
+    <color name="colorSubTitle">#656565</color><!--二级标题-->
+    <color name="colorText">#656565</color><!--正文-->
+    <color name="colorHint">#989898</color><!--提示-->
+
+    <color name="colorBackground">#EEEEEE</color>
 </resources>

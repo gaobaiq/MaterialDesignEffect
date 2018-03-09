@@ -1,21 +1,21 @@
-package com.gaobaiq.mdeffect.ui.other.widget
+package com.gaobaiq.mdeffect.ui.mine.widget
 
 import com.gaobaiq.mdeffect.R
 import com.gaobaiq.mdeffect.base.BaseFragment
-import com.gaobaiq.mdeffect.ui.other.presenter.impl.OtherPresenterImpl
-import com.gaobaiq.mdeffect.ui.other.view.IOtherView
+import com.gaobaiq.mdeffect.ui.mine.presenter.impl.MinePresenterImpl
+import com.gaobaiq.mdeffect.ui.mine.view.IMineView
 
 /**
  * Description:
  * Author: gaobaiqiang
  * 2018/3/9 上午10:21.
  */
-class OtherFragment: BaseFragment<IOtherView, OtherPresenterImpl>(), IOtherView {
+class MineFragment: BaseFragment<IMineView, MinePresenterImpl>(), IMineView {
     override val layoutId: Int
-        get() = R.layout.fragment_other
+        get() = R.layout.fragment_mine
 
-    override fun initPresenter(): OtherPresenterImpl? {
-        return OtherPresenterImpl()
+    override fun initPresenter(): MinePresenterImpl? {
+        return MinePresenterImpl()
     }
 
     override fun initViewAndData() {

@@ -1,4 +1,4 @@
-package com.gaobaiq.mdeffect.ui.view
+package com.gaobaiq.mdeffect.ui.main.view
 
 /**
  * Description:
@@ -6,4 +6,11 @@ package com.gaobaiq.mdeffect.ui.view
  * 2018/3/8 下午5:09.
  */
 interface IMainView {
+    fun onPaperClick()
+
+    fun onWidgetsClick()
+
+    fun onDialogClick()
+
+    fun onMineClick()
 }
